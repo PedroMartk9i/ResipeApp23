@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253158575422",
+    "project_id": "resipeapp-e879b",
+    "storage_bucket": "resipeapp-e879b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253158575422:android:c2aa0852e2aa4e90d5f06f",
+        "android_client_info": {
+          "package_name": "com.example.resipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253158575422-abj95dj3211j94jd3puk41e7i2dnp29e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfqnmH2VuDZKSDnCq1b5d0NDCn36_dVyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253158575422-abj95dj3211j94jd3puk41e7i2dnp29e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

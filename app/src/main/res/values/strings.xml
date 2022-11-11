@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">ResipeApp</string>
+    <string name="error_validacion">Digite un valor</string>
+    <string name="btn_newreceta">Agregar Nueva Receta</string>
+    <string name="et_nomreceta">Nombre de la receta</string>
+    <string name="et_descripcion">Descripción</string>
+    <string name="et_ingredientes">Ingredientes</string>
+    <string name="et_preparacion">Preparación</string>
+    <string name="et_url">Url Imagen</string>
+    <string name="btn_guardar">Guardar Receta</string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="tv_email">Email administrativo</string>
+    <string name="tv_contraseña">Contraseña</string>
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="msg_error">hhjgjhgghj</string>
+    <string name="close_sesion">Cerrar Sesion</string>
+    <string name="et_nombreuser">Nombre Completo</string>
+    <string name="et_usuario">Email</string>
+    <string name="et_password">Contraseña</string>
+    <string name="btn_registrarse">Registrar</string>
+    <string name="btn_sugerencia">Sugerencia</string>
+    <string name="tv_sugerencia">En este apartado podrás decirnos que te gustaria que mejoremos,
+    a su vez decirnos que tal te parece el funcionamiento de nuestra app y calificanos del 1 al 5,
+        siendo (1) la calificacion mas baja y (5) la calificación mas alta</string>
+    <string name="et_sugerencia">Escribe aqui . . .</string>
+    <string name="btn_sueguardado">Enviar Sugerencias</string>
+    <string name="tv_registro">Registro ResipeApp</string>
+    <string name="et_calificacion">Calificanos (Del 1 al 5)</string>
+</resources>
